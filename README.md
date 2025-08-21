@@ -17,21 +17,18 @@
 
 <br>
 
-- Estudiante de 6to Perito en Computación en Guatemala  
+- Estudiante de 6to Perito en Computación en Centro Técnico laboral KINAL 
 - Desarrollador apasionado por el **Backend** y la **Gestión de Bases de Datos**  
 - Conocimiento en **Frontend, Backend y Bases de Datos relacionales y NoSQL**  
 - Actualmente aprendiendo y reforzando **desarrollo web** y **arquitectura de software**  
-- He desarrollado proyectos como **Banco Virtual (Sentinel)**, **Sistema HOPE** y **HatsHouse**  
+- He desarrollado proyectos como **Banco Virtual (Sentinel)**, **Sistema HOPE(Sistema de salud)** y **Sistema de ventas con Java con generacion de facturas y reportes**
 - Estoy abierto a oportunidades de prácticas profesionales y nuevos retos  
 
 <br><br>
 
-<img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img
-    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-    width="25"><b> Habilidades</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades </b>
 <br>
 
 <p align="center">
