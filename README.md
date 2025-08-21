@@ -82,30 +82,13 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub </b>
-<br>
-
-<div align="center">
-
-   <a href="https://github.com/lgarcia-2020322/">
-        <img src="https://github-readme-stats.vercel.app/api?username=lgarcia-2020322&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-            width="450" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lgarcia-2020322&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-            width="375" alt="lgarcia-2020322" />
-   </a>
-</div>
-
-<br>
-<br>
-<br>
-
 -----
 
 <br>
 
-## <b> Conectemos..! </b><img
-    src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b> Let's Connect..!</b><img src="linkedin.com/in/luis-antonio-garcia-morales-667172376/" width ="80">
 <br>
+
 <div align='left'>
 
    <ul>
@@ -115,20 +98,9 @@
                     alt=linkedin style="margin-bottom: 5px;" />
             </a>
         </li>
-
         <br>
-
         <li>
-            <a href="https://twitter.com/tuusuario" target="_blank">
-                <img src="https://img.shields.io/badge/twitter:  luis_garcia-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"
-                    alt=twitter style="margin-bottom: 5px;" />
-            </a>
-        </li>
-
-        <br>
-
-        <li>
-            <a href="mailto:tucorreo@gmail.com" target="_blank">
+            <a href="mailto:luis.antonio.gm19@gmail.com" target="_blank">
                 <img src="https://img.shields.io/badge/gmail:  luis_garcia-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
                     t=mail style="margin-bottom: 5px;" />
             </a>
@@ -143,9 +115,7 @@
 <br>
 
 <div align='center'>
-
     <b>🚀 Siempre aprendiendo, creando y mejorando</b>
-
 </div>
 <br>
 <br>
