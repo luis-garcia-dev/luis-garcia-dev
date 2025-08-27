@@ -22,7 +22,7 @@
 - Conocimiento en **Frontend, Backend y Bases de Datos relacionales y NoSQL**  
 - Actualmente aprendiendo y reforzando **desarrollo web** y **arquitectura de software**  
 - He desarrollado proyectos como **Banco Virtual (Sentinel)**, **Sistema HOPE(Sistema de salud)** y **Sistema de ventas con Java con generacion de facturas y reportes**
-- Estoy abierto a oportunidades de prácticas profesionales y nuevos retos  
+- Estoy listo para nuevos retos en desarrollo web y software.
 
 <br><br>
 
@@ -35,9 +35,7 @@
 
    - **Lenguajes**:  
    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 
    <br>
 
