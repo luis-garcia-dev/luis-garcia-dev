@@ -17,7 +17,7 @@
 
 <br>
 
-- Estudiante de 6to Perito en Computación en Centro Técnico laboral KINAL 
+- Perito en computación - Centro Técnico Laboral KINAL 
 - Desarrollador apasionado por el **Backend** y la **Gestión de Bases de Datos**  
 - Conocimiento en **Frontend, Backend y Bases de Datos relacionales y NoSQL**  
 - Actualmente aprendiendo y reforzando **desarrollo web** y **arquitectura de software**  
